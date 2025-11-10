@@ -162,7 +162,7 @@ AI проактивно защищает ваш код от уязвимосте
 
 ### 1️⃣ Установка промпта
 
-Скопируйте содержимое файла [system_prompt_full.md](./system_prompt_full.md) в "Custom Instructions" вашего AI-ассистента (Claude, ChatGPT и др.).
+Скопируйте содержимое файла [system_prompt_full.md](./sistem_promt_mini.md) в "Custom Instructions" вашего AI-ассистента (Claude, ChatGPT и др.).
 
 *   **Claude:** `Settings` → `Profile` → `Custom Instructions`.
 *   **ChatGPT:** `Settings` → `Custom Instructions`.
